@@ -30,4 +30,6 @@ Name1 = 'nose3';
 let myAge = '21';
 let yourAge = '25';
 
+console.log(myAge, yourAge)
+console.log('myAge', 'yourAge')
 console.log('Mi edad es' + ' ' + myAge, 'Tu edad es ' + yourAge)
